@@ -24,3 +24,8 @@ _autosave-*
 *.xml
 *.csv
 *.DS_Store
+
+# External libraries
+*.pretty
+fp-info-cache
+*.pretty
