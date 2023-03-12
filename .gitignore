@@ -6,6 +6,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*pcb-backups/
 *~
 _autosave-*
 *.tmp
@@ -28,4 +29,3 @@ _autosave-*
 # External libraries
 *.pretty
 fp-info-cache
-*.pretty
